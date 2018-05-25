@@ -1,8 +1,5 @@
 ---
 declared-services:
-  wma-visual-recognition:
-    label: watson_vision_combined
-    plan: free
   wma-natural-language-understanding:
     label: natural-language-understanding
     plan: free
@@ -24,7 +21,6 @@ applications:
   disk_quota: 2048M
   random-route: false
   services:
-   - wma-visual-recognition
    - wma-natural-language-understanding
    - wma-tone-analyzer
    - wma-cloudant
