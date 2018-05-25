@@ -48,7 +48,7 @@ For convenience, we recommend that you use the ``Deploy to IBM Cloud`` button to
 * Once you have completed this journey, all of the Watson services can be automatically deleted along with deployed app.
 
 ## Deploy to IBM Cloud
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/watson-multimedia-analyzer)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/rhagarty/watson-multimedia-analyzer)
 
 1. Press the above ``Deploy to IBM Cloud`` button and then click on ``Deploy``.
 
